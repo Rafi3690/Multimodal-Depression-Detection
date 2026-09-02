@@ -10,11 +10,11 @@
 >  The source code is accessible at https://github.com/Rafi3690/Multimodal-Depression-Detection.
 
 ----
-
-
-<p align="center"> <img src="figures/proposed_method.png" alt="Proposed Multimodal Depression Detection Framework" width="900"> </p>
-
-Figure 1. Overview of the proposed multimodal depression detection framework.
+<p align="center">
+  <img src="figures/proposed_method.png" alt="Proposed Multimodal Depression Detection Framework"
+       alt="Overview of the proposed multimodal depression detection framework."
+       width="600">
+</p>
 
 **python implementation**
 
