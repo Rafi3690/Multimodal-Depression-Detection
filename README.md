@@ -38,11 +38,10 @@ GPU Memory: 24 GB
 ---
 
 ### Prepare Datasets
-
 <p align="center">
-  <img src="./figures/multimodal_dataset_block_diagram.png"
+  <img src="https://drive.google.com/file/d/1nqNo-JE9DaVBIDIcg5KxMYFYiHB5psxz/view?usp=sharing"
        alt="Block diagram of the multimodal dataset and corresponding data modalities."
-       width="900">
+       width="600">
 </p>
 
 **Figure 2.** Block diagram illustrating the multimodal dataset and the corresponding data modalities used for depression detection.
