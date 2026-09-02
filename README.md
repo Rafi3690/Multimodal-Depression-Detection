@@ -7,7 +7,7 @@
 
 
 ## Abstract
-> Depression is a major mental health condition that severely impacts the emotional and physical well-being of individuals. The simple nature of data collection from social media platforms has attracted significant interest in properly utilizing this information for mental health research. A Multimodal Depression Detection Network (MDD-Net), utilizing acoustic and visual data obtained from social media networks, is proposed in this work where mutual transformers are exploited to efficiently extract and fuse multimodal features for efficient depression detection. The MDD-Net consists of four core modules: an acoustic feature extraction module for retrieving relevant acoustic attributes, a visual feature extraction module for extracting significant high-level patterns, a mutual transformer for computing the correlations among the generated features and fusing these features from multiple modalities, and a detection layer for detecting depression using the fused feature representations. The extensive experiments are performed using the multimodal D-Vlog dataset, and the findings reveal that the developed multimodal depression detection network surpasses the state-of-the-art by up to 17.37% for F1-Score, demonstrating the greater performance of the proposed system. The source code is accessible at https://github.com/rezwanh001/Multimodal-Depression-Detection.
+>  The source code is accessible at https://github.com/Rafi3690/Multimodal-Depression-Detection.
 
 ----
 
@@ -15,20 +15,19 @@
 
 <!-- ```python
 Version :   0.0.1  
-Author  :   Md Rezwanul Haque
-Email   :   mr3haque@uwaterloo.ca 
+Author  :   M.A.Rafi
+Email   :   190125.cse@student.just.edu.bd
 ``` -->
 ---
 ### **Related resources**:
 
 **LOCAL ENVIRONMENT**  
 ```python
-OS          :   Ubuntu 24.04.1 LTS       
-Memory      :   128.0 GiB
-Processor   :   Intel® Xeon® w5-3425 × 24  
-Graphics    :   NVIDIA RTX A6000
-CPU(s)      :   24
-Gnome       :   46.0 
+OS          :   Windows 11
+Memory      :   64.0 GiB
+Processor :     AMD Ryzen 9 3900X
+Graphics :      GeForce RTX 3090
+CPU(s)      :  24 (AMD Ryzen 9 3900X
 ```
 ---
 
