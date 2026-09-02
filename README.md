@@ -14,7 +14,7 @@
 
 <p align="center"> <img src="figures/proposed_method.png" alt="Proposed Multimodal Depression Detection Framework" width="900"> </p>
 
-Figure . Overview of the proposed multimodal depression detection framework.
+Figure 1. Overview of the proposed multimodal depression detection framework.
 
 **python implementation**
 
@@ -38,6 +38,9 @@ GPU Memory: 24 GB
 ---
 
 ### Prepare Datasets
+<p align="center"> <img src="figures/multimodal_dataset_block_diagram.png" alt="Block Diagram of Multimodal Dataset" width="900"> </p>
+
+Figure 2. Block diagram illustrating the multimodal dataset and the corresponding data modalities used for depression detection.
 
 We use the [D-Vlog](https://doi.org/10.1609/aaai.v36i11.21483) dataset, proposed in this paper. For the D-Vlog dataset, please fill in the form at the bottom of the [dataset website](https://sites.google.com/view/jeewoo-yoon/dataset), and send a request email to the [author](mailto:yoonjeewoo@gmail.com). Following D-Vlog's setup, the dataset is split into train, validation and test sets with a 7:1:2 ratio. 
 
