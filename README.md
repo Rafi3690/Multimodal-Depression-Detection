@@ -11,6 +11,11 @@
 
 ----
 
+
+<p align="center"> <img src="figures/proposed_method.png" alt="Proposed Multimodal Depression Detection Framework" width="900"> </p>
+
+Figure . Overview of the proposed multimodal depression detection framework.
+
 **python implementation**
 
 <!-- ```python
@@ -23,11 +28,12 @@ Email   :   190125.cse@student.just.edu.bd
 
 **LOCAL ENVIRONMENT**  
 ```python
-OS          :   Windows 11
-Memory      :   64.0 GiB
-Processor   :   AMD Ryzen 9 3900X
-Graphics    :   GeForce RTX 3090
-CPU(s)      :   24 (AMD Ryzen 9 3900X
+OS: Windows 11
+Memory: 64 GB
+Processor: AMD Ryzen 9 3900X
+CPU: 12 Cores / 24 Threads
+Graphics: NVIDIA GeForce RTX 3090
+GPU Memory: 24 GB
 ```
 ---
 
@@ -38,7 +44,7 @@ We use the [D-Vlog](https://doi.org/10.1609/aaai.v36i11.21483) dataset, proposed
 ---
 
 **python requirements**
-* **pip requirements**: ```pip install -r requirements.txt``` 
+* **pip requirements**:
 
 ### Execution (Depression Detection)
 - ```$ conda activate your_env```
@@ -50,7 +56,4 @@ We use the [D-Vlog](https://doi.org/10.1609/aaai.v36i11.21483) dataset, proposed
 - To inference:
     ```$ python infer_mainkfold.py```
 
-
-This project is licensed under the [MIT License](LICENSE).
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+  
