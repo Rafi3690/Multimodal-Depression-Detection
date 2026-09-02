@@ -65,7 +65,3 @@ Activate your conda environment:
 ```bash
 conda activate your_env
 ```
-
-```bash
-python infer_mainkfold.py
-```
