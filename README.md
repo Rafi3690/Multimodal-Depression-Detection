@@ -37,7 +37,6 @@ We developed the Categorized Multimodal Dataset for Depression Detection (CMDDD)
   <img src="figure/dataset.png" alt="Block diagram of the multimodal dataset and corresponding data modalities" width="600">
 </p>
 
-## Dataset Distribution
 <p align="center">
   <img src="figure/newplot.png" alt="Class Distribution" width="600">
 </p>
