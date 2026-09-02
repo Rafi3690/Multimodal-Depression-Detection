@@ -9,7 +9,7 @@
 ## Architecture
 
 <p align="center">
-  <img src="./figures/proposed_method.png"
+  <img src="https://drive.google.com/file/d/1GWORFJFk62-_YcMikqnIenZVkE4tL-cS/view?usp=sharing"
        alt="Overview of the proposed multimodal depression detection framework."
        width="600">
 </p>
