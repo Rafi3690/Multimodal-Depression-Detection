@@ -42,9 +42,6 @@ We developed the Categorized Multimodal Dataset for Depression Detection (CMDDD)
   <img src="figure/newplot.png" alt="Class Distribution" width="600">
 </p>
 
-### Python Requirements
-
-
 ### Execution (Depression Detection)
 
 Activate your conda environment:
