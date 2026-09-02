@@ -39,7 +39,7 @@ We developed the Categorized Multimodal Dataset for Depression Detection (CMDDD)
 
 ## Dataset Distribution
 <p align="center">
-  <img src="label.html" alt="Label Figure" width="600">
+  <img src="newplot,png" alt="Class Distribution" width="600">
 </p>
 
 ### Python Requirements
