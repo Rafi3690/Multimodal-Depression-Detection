@@ -35,9 +35,7 @@ GPU Memory: 24 GB
 ### Prepare Datasets
 We developed the Categorized Multimodal Dataset for Depression Detection (CMDDD) by integrating text, image, and audio data from multiple public datasets. The final CMDDD contains **55,713 multimodal samples** categorized as **Highly Positive, Positive, Negative, and Neutral**. Text, image, and audio features were extracted using **BERT, ViT, and Wav2Vec2.0**, respectively. Unlabeled modality-specific data were categorized using **k-means clustering**, with distance-based refinement used to derive the Highly Positive category. The resulting modality-specific samples were then aligned by emotional category to construct the final multimodal dataset.
 <p align="center">
-  <img src="https://drive.google.com/file/d/1nqNo-JE9DaVBIDIcg5KxMYFYiHB5psxz/view?usp=sharing"
-       alt="Block diagram of the multimodal dataset and corresponding data modalities."
-       width="600">
+  <img src="figure/dataset.png" alt="Block diagram of the multimodal dataset and corresponding data modalities" width="600">
 </p>
 ---
 
