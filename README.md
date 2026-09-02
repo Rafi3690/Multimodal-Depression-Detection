@@ -25,9 +25,9 @@ Email   :   190125.cse@student.just.edu.bd
 ```python
 OS          :   Windows 11
 Memory      :   64.0 GiB
-Processor :     AMD Ryzen 9 3900X
-Graphics :      GeForce RTX 3090
-CPU(s)      :  24 (AMD Ryzen 9 3900X
+Processor   :   AMD Ryzen 9 3900X
+Graphics    :   GeForce RTX 3090
+CPU(s)      :   24 (AMD Ryzen 9 3900X
 ```
 ---
 
