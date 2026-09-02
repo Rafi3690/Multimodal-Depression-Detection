@@ -44,8 +44,6 @@ GPU Memory: 24 GB
        width="600">
 </p>
 
-.
-
 ---
 
 ### Python Requirements
