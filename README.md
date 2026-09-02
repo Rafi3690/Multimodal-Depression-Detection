@@ -25,8 +25,6 @@ Email   : 190125.cse@student.just.edu.bd
 
 ---
 
-### Related Resources
-
 **LOCAL ENVIRONMENT**
 
 ```text
@@ -58,12 +56,6 @@ Following D-Vlog's setup, the dataset is split into train, validation, and test 
 
 ### Python Requirements
 
-**pip requirements:**
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ### Execution (Depression Detection)
@@ -73,14 +65,6 @@ Activate your conda environment:
 ```bash
 conda activate your_env
 ```
-
-#### Train and Validate
-
-```bash
-python mainkfold.py
-```
-
-#### Inference
 
 ```bash
 python infer_mainkfold.py
