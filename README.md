@@ -9,11 +9,10 @@
 ## Architecture
 
 <p align="center">
-  <img src="figures/proposed_method.png"
+  <img src="./figures/proposed_method.png"
        alt="Overview of the proposed multimodal depression detection framework."
        width="600">
 </p>
-
 
 <!--
 ```python
@@ -41,8 +40,8 @@ GPU Memory: 24 GB
 ### Prepare Datasets
 
 <p align="center">
-  <img src="figures/multimodal_dataset_block_diagram.png"
-       alt="Block diagram of the multimodal dataset and corresponding data modalities"
+  <img src="./figures/multimodal_dataset_block_diagram.png"
+       alt="Block diagram of the multimodal dataset and corresponding data modalities."
        width="900">
 </p>
 
